@@ -1,0 +1,16 @@
+{
+  "name": "anvil.cordova",
+  "author": "Mike Hostetler <mike.hostetler@gmail.com> (http://mike-hostetler.com)",
+  "description": "Anvil plugin to integrate the Cordova command line tools",
+  "version": "0.0.1",
+  "engines": {
+    "node": "~0.8.3"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+  },
+  "devDependencies": { 
+		"anvil.js": "",
+		"underscore": ">=1.0.0"
+	}
+}
